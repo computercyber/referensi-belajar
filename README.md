@@ -1,7 +1,7 @@
 ## Computer Cyber Study Club
+> https://computercyber.gihub.io/referensi-belajar/
 
-ini adalah sejarah kita. Tempat belajar untuk semua. Informasi tentang dunia teknologi.<br>
-kami adalah jalan untuk masa depan anda.
+Cinta kami abadi pada teknologi.
 
 ---
 Referensi Materi Belajar
