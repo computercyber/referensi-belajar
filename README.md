@@ -8,19 +8,21 @@ Referensi Materi Belajar
 
 ## Programming dsb
 <ul>
+  <li>https://www.w3schools.com/</li>
+  <li>https://developers.google.com/</li>
   <li>https://www.sololearn.com/</li>
   <li>https://www.packtpub.com/</li>
   <li>https://www.freecodecamp.org/#</li>
   <li>https://duniailkom.com/</li>
-https://codelabs.developers.google.com/
-https://www.udacity.com/
-https://www.udemy.com/
-https://www.w3schools.com/
-https://www.tutorialspoint.com/
+  <li>https://www.udacity.com/</li>
+  <li>https://www.udemy.com/</li>
+  <li>https://www.tutorialspoint.com/</li>
 </ul>
-Data science (ML & AI)
-https://www.kaggle.com/
-Multimedia
+
+## Data science (ML & AI)
+> https://www.kaggle.com/
+
+## Multimedia
 https://coolors.co/browser/latest/1
 https://www.producthunt.com/
 https://www.uplabs.com/
