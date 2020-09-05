@@ -76,7 +76,7 @@ Referensi Materi Belajar
 Kalau ada yang punya link belajar bisa komen dibawah ini yaa yang versi budget mahasiswa :v
 
 ---
-## conributor
+## contibutor
 <ol>
   <li>computer cyber</li>
 </ol>
