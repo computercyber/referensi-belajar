@@ -7,7 +7,7 @@ kami adalah jalan untuk masa depan anda.
 Referensi Materi Belajar
 
 ## Programming dsb
-<ul>
+<ol>
   <li>https://www.w3schools.com/</li>
   <li>https://developers.google.com/</li>
   <li>https://www.sololearn.com/</li>
@@ -17,40 +17,69 @@ Referensi Materi Belajar
   <li>https://www.udacity.com/</li>
   <li>https://www.udemy.com/</li>
   <li>https://www.tutorialspoint.com/</li>
-</ul>
+</ol>
 
 ## Data science (ML & AI)
 > https://www.kaggle.com/
 
 ## Multimedia
-https://coolors.co/browser/latest/1
-https://www.producthunt.com/
-https://www.uplabs.com/
-https://dribbble.com/
-https://material.io/tools/color/#!/?view.left=0&view.right=0&primary.color=ffffff
-Extension Google Chrome for Designer
-https://blog.prototypr.io/7-essential-chrome-extensions-for-designers-f62f5dd3d303 
-Game
-https://opengameart.org/
-https://kenney.nl/assets
-https://freesound.org/
-https://unity3d.com/learn/tutorials
-Color
-https://material.io/tools/color/ 
-https://flatuicolors.com/
-http://www.flatuicolorpicker.com/category/all
-Font
-https://fonts.google.com/
-CSS-Tricks
-https://css-tricks.com/
-icon
-https://material.io/icons/
-referensi UI/UX
-http://collectui.com/
-https://pttrns.com/
-Robotik
-https://www.hackster.io/
-https://dirakit.hackster.io/
-Experiment Google
-https://experiments.withgoogle.com/
+<ol>
+  <li>https://coolors.co/browser/latest/1</li>
+  <li>https://www.producthunt.com/</li>
+  <li>https://www.uplabs.com/</li>
+  <li>https://dribbble.com/</li>
+  <li>https://material.io/tools/color/#!/?view.left=0&view.right=0&primary.color=ffffff</li>
+</ol>
+
+## Extension Google Chrome for Designer
+> https://blog.prototypr.io/7-essential-chrome-extensions-for-designers-f62f5dd3d303 
+
+## Game
+<ol>
+  <li>https://opengameart.org/</li>
+  <li>https://kenney.nl/assets</li>
+  <li>https://freesound.org/</li>
+  <li>https://unity3d.com/learn/tutorials</li>
+</ol>
+  
+## Color
+<ol>
+  <li>https://material.io/tools/color/</li> 
+  <li>https://flatuicolors.com/</li>
+  <li>http://www.flatuicolorpicker.com/category/all</li>
+</ol>
+
+## Font
+> https://fonts.google.com/
+
+## CSS-Tricks
+> https://css-tricks.com/
+
+## icon
+> https://material.io/icons/
+
+## referensi UI/UX
+<ol>
+  <li>http://collectui.com/</li>
+  <li>https://pttrns.com/</li>
+</ol>
+
+## Robotik
+<ol>
+  <li>https://www.hackster.io/</li>
+  <li>https://dirakit.hackster.io/</li>
+</ol>
+
+## Experiment Google
+> https://experiments.withgoogle.com/
+
 Kalau ada yang punya link belajar bisa komen dibawah ini yaa yang versi budget mahasiswa :v
+
+---
+## conributor
+<ol>
+  <li>computer cyber</li>
+</ol>
+
+---
+© Computer cyber study club
